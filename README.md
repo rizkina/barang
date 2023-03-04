@@ -26,4 +26,4 @@ This application runs the create, read, update, delete, and search process is ho
 Demo page : http://rzknug.ndoro.id
 username  : admin
 password  : admin
-YouTube link : https://youtu.be/8LdvHInVFQQ
+YouTube link : https://youtu.be/8LdvHInVFQQ 

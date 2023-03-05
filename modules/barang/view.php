@@ -76,7 +76,7 @@
             <tbody>
             <?php  
             $no = 1;
-            // query function to display data from the goods table
+            // query function to display data from the barang table
             $query = mysqli_query($mysqli, "SELECT id_brg,id_jns,nm_brg,stok,satuan FROM barang ORDER BY id_brg DESC")
                                             or die('Ada kesalahan pada query tampil Data Barang: '.mysqli_error($mysqli));
 

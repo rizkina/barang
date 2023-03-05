@@ -82,7 +82,7 @@
 
             // perform data
             while ($data = mysqli_fetch_assoc($query)) { 
-              // menampilkan isi tabel dari database ke tabel di aplikasi
+              // perform database into table
               echo "<tr>
                       <td width='30' class='center'>$no</td>
                       <td width='80' class='center'>$data[id_brg]</td>
